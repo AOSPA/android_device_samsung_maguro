@@ -19,6 +19,12 @@
     },
     {
         "remote":       "blobs",
+        "repository":   "proprietary_vendor_samsung_tuna",
+        "target_path":  "vendor/samsung/tuna",
+        "revision":     "kitkat"
+    },
+    {
+        "remote":       "blobs",
         "repository":   "proprietary_vendor_samsung_maguro",
         "target_path":  "vendor/samsung/maguro",
         "revision":     "kitkat"
